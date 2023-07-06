@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **microservices architecture, docker**
 
-- 👯 I’m working self private project [Top Store](https://tsyoutube.social/)
+- 🤑 I’m working self private project [Top Store](https://tsyoutube.social/)
 
 - 👨‍💻 All of my projects are available at [https://sreeragbhaskark.github.io/Sreerag-Bhaskar-K/](https://sreeragbhaskark.github.io/Sreerag-Bhaskar-K/)
 
