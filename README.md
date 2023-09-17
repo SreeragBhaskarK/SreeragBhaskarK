@@ -6,7 +6,10 @@
 
 - 👨‍💻 I’m working first project [GetMyShoe(Full Ecommerce Application)](https://getmyshoe.live/)
 
-- 🌱 I’m currently learning **microservices architecture, docker**
+- 👨‍💻 I’m working last project [GetChat(Social Media Application)](https://getmyshoe.live/)
+- 
+
+- 🌱 I’m currently learning **better write code**
 
 - 🤑 I’m working self private project [Top Store](https://tsyoutube.social/)
 
