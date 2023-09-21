@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sreeragvk020@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZFYu3p2toJdzSjXNJI1xXO45RqGOEdZJ/view?usp=sharing](https://drive.google.com/file/d/1ZFYu3p2toJdzSjXNJI1xXO45RqGOEdZJ/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/11ICxeS-S52hL0CPHTOSPDqOtm-ZOpK_F/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
