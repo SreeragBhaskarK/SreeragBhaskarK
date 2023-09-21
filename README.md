@@ -6,20 +6,20 @@
 
 - 👨‍💻 I’m working first project [GetMyShoe(Full Ecommerce Application)](https://getmyshoe.live/)
 
-- 👨‍💻 I’m working last project [GetChat(Social Media Application)](https://getmyshoe.live/)
+- 👨‍💻 I’m working last project [GetChat(Social Media Application)](https://getchat.getmyshoe.live/)
 - 
 
 - 🌱 I’m currently learning **better write code**
 
 - 🤑 I’m working self private project [Top Store](https://tsyoutube.social/)
 
-- 👨‍💻 All of my projects are available at [https://sreeragbhaskark.github.io/Sreerag-Bhaskar-K/](https://sreeragbhaskark.github.io/Sreerag-Bhaskar-K/)
+- 👨‍💻 All of my projects are available at [view](https://sreeragbhaskark.github.io/Sreerag-Bhaskar-K/)
 
 - 💬 Ask me about **Mongodb,Express,React,Node**
 
 - 📫 How to reach me **sreeragvk020@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/11ICxeS-S52hL0CPHTOSPDqOtm-ZOpK_F/view?usp=sharing)
+- 📄 Know about my experiences [view](https://drive.google.com/file/d/11ICxeS-S52hL0CPHTOSPDqOtm-ZOpK_F/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
